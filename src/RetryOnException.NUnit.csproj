@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>stop-cran &lt;stop-cran@list.ru&gt;</Authors>
     <Description>An attribute to retry NUnit tests in case of an exception of a given type has been thrown.</Description>
     <PackageLicenseFile>license.txt</PackageLicenseFile>
